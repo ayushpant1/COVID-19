@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "246520097242",
+    "firebase_url": "https://cando-8c6c9.firebaseio.com",
+    "project_id": "cando-8c6c9",
+    "storage_bucket": "cando-8c6c9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:246520097242:android:557e24e4d108cc13d6f8e3",
+        "android_client_info": {
+          "package_name": "com.CanDo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "246520097242-9u8oha5namjd2tleqvf9nsluus1vq9hi.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.CanDo",
+            "certificate_hash": "2c6dcd4a23bd17c216daf66ab0f4c3bc4cc5ff04"
+          }
+        },
+        {
+          "client_id": "246520097242-7nq9l04osrf5prdi49gguu4n31j3tucl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBFIuiTRo7iDSOCgWz8vgoZXFnvEhfZK74"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "246520097242-7nq9l04osrf5prdi49gguu4n31j3tucl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

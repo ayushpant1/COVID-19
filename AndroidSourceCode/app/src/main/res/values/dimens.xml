@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--dp-->
+    <dimen name="dimens_2dp">2dp</dimen>
+    <dimen name="dimens_4dp">4dp</dimen>
+    <dimen name="dimens_5dp">6dp</dimen>
+    <dimen name="dimens_6dp">8dp</dimen>
+
+    <!--sp-->
+    <dimen name="design_bottom_navigation_active_text_size">12sp</dimen>
+    <dimen name="dimens_18sp">18sp</dimen>
+    <dimen name="dimens_16sp">16sp</dimen>
+</resources>
